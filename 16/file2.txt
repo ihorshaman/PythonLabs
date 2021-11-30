@@ -1,0 +1,2 @@
+('Name:', 'igor', 'Surname:', 'shimanovich', 'Clients:', '12')
+('Name:', 'egor', 'Surname:', 'dolgoshow', 'Salary:', '1500')
